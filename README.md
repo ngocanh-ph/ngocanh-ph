@@ -1,10 +1,13 @@
-<!-- TOP: Matrix animation banner -->
-<!-- Lofi chill girl GIF -->
+<!-- TOP: Full width chill girl GIF -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlZzlkemt3a2w0NTdnOXpleHJzMjhocXd4cmdubDloeWpyc3UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="480px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlZzlkemt3a2w0NTdnOXpleHJzMjhocXd4cmdubDloeWpyc3UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="100%"/>
 </div>
+
+<!-- Typing animation tên — nổi bật, đơn giản -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=hi%2C+i%27m+ngocanh+🌸&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI+Engineer+%2F+Business+Analyst+%7C+Vietnam+🇻🇳&descAlignY=75&descSize=16" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=hi+there%2C+i'm+ngocanh+🌸;AI+Engineer+%2F+Business+Analyst;Vietnam+🇻🇳+%7C+always+learning+✨)](https://git.io/typing-svg)
+
 </div>
 
 <!-- Status Badges -->

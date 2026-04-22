@@ -75,8 +75,8 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0096C7&icon_color=a78bfa&text_color=023E8A"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0096C7&text_color=023E8A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
 
 </div>
 
@@ -109,7 +109,7 @@ No Activity Tracked This Week
 
 <div align="center">
 
-[![ngocanh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngocanh-ph&theme=tokyo-night&hide_border=true&bg_color=0077B6&color=0096C7&line=a78bfa&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ngocanh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngocanh-ph&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b9d&line=a78bfa&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

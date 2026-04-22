@@ -13,8 +13,8 @@
 <!-- Status Badges -->
 <div align="center">
 
-![Working On](https://img.shields.io/badge/🔨_Working_On-Machine_Learning-ff6b9d?style=flat-square)
-![Learning](https://img.shields.io/badge/🧠_Learning-NLP-a78bfa?style=flat-square)
+![Working On](https://img.shields.io/badge/🔨_Working_On-Machine_Learning_%26_NLP_Projects-ff6b9d?style=flat-square)
+![Learning](https://img.shields.io/badge/🧠_Learning-AI_Engineering-a78bfa?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=👀+visitors&color=38bdf8)
 
 </div>

@@ -6,7 +6,7 @@
 <!-- Typing animation tên — nổi bật, đơn giản -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=Hello+Word!%2C+I'm+Anthalia+🌸;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=Hello+Word!%2C+I'm+Anthalia+🌸; I never lose. I either win or learn. -Nelson Mandela)](https://git.io/typing-svg)
 
 </div>
 
@@ -123,13 +123,6 @@ No Activity Tracked This Week
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthalia-pham/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pna.ngocanhpham@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngocanh-ph)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthalia.ph)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phngoc_anh)
 
-</div>
-
-<!-- Bottom wave -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTV6eDNoaThocHNkdHZidHBwZGI2ZjgzMG9keGo4ZDVwcXdjd2h6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeSXccYMz3K4U/giphy.gif" width="100%"/>
-
-<div align="center">
-
-*✦ I never lose. I either win or learn. -Nelson Mandela✦*
-</div>

@@ -3,10 +3,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlZzlkemt3a2w0NTdnOXpleHJzMjhocXd4cmdubDloeWpyc3UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="100%"/>
 </div>
 
-<!-- Typing animation tên — nổi bật, đơn giản -->
+<!-- Typing animation tên-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=Hello+Word!%2C+I'm+Anthalia+🌸; I never lose. I either win or learn. -Nelson Mandela)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+🌸;I+never+lose.+I+either+win+or+learn.+-Nelson+Mandela)](https://git.io/typing-svg)
 
 </div>
 

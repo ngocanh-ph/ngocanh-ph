@@ -1,15 +1,22 @@
-<!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E991C8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+ngocanh+%F0%9F%91%8B;AI+Engineer+%2F+Business+Analyst;Turning+data+into+decisions+%F0%9F%A7%A0;Building+intelligent+systems+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- Pixel Art Banner -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
-*"Analytics isn't just my job — it's how I think about the world."*
+<!-- Animated name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E991C8&center=true&vCenter=true&width=600&lines=ngocanh-ph+%F0%9F%91%8B;AI+Engineer+%2F+Business+Analyst;Turning+data+into+decisions+%F0%9F%A7%A0;Building+intelligent+systems+%E2%9C%A8)](https://git.io/typing-svg)
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- Status Badges (like Mark) -->
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=flat-square&label=wakatime&color=E991C8)](https://wakatime.com/@ngocanh-ph)
+![Working On](https://img.shields.io/badge/Working%20On-AI%20Projects-2d1b3d?style=flat-square&labelColor=2d1b3d&color=C9A0F5)
+![Learning](https://img.shields.io/badge/Learning-NLP%20%26%20LLMs%20🧠-2d1b3d?style=flat-square&labelColor=2d1b3d&color=E991C8)
+![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=visitors&color=C9A0F5)
 
 </div>
 
-## 🌸 About Me
+---
+
+## 🧠 About Me
 
 ```yaml
 name       : ngocanh-ph
@@ -25,7 +32,14 @@ status     : Learning, building, and growing every day 🌱
 - 💬 Ask me about **ML pipelines, business analysis, or backend APIs**
 - ⚡ Fun fact: I believe the best solutions are simple ones 😄
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
+
+## 💼 Experience
+
+- **AI / Business Analyst** — Building data-driven solutions
+- **Admin & Builder** of personal projects & learning systems
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -58,22 +72,17 @@ status     : Learning, building, and growing every day 🌱
 
 ![React](https://img.shields.io/badge/React-2d1b3d?style=for-the-badge&logo=react&logoColor=C9A0F5)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-2d1b3d?style=for-the-badge&logo=git&logoColor=E991C8)
-![Jupyter](https://img.shields.io/badge/Jupyter-2d1b3d?style=for-the-badge&logo=jupyter&logoColor=E991C8)
-![Notion](https://img.shields.io/badge/Notion-2d1b3d?style=for-the-badge&logo=notion&logoColor=E991C8)
-
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-## 📊 GitHub Stats
+## 📊 Stats
+
+### GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&show_icons=true&theme=transparent&hide_border=true&title_color=E991C8&icon_color=C9A0F5&text_color=f0c4e8&bg_color=1a0d2e" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=transparent&hide_border=true&title_color=E991C8&text_color=f0c4e8&bg_color=1a0d2e" />
 
 </div>
@@ -84,9 +93,7 @@ status     : Learning, building, and growing every day 🌱
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## ⏱️ WakaTime Stats
+### ⏱️ Things I'm Working On This Week
 
 <div align="center">
 
@@ -127,7 +134,6 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   12 commits          ███████████████░░░░░░░░░░   60.00 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -160,9 +166,7 @@ HTML                     1 repo              ██████░░░░░�
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## 🌐 Contribution Graph
+### 🌐 Activity Graph
 
 <div align="center">
 
@@ -170,22 +174,22 @@ HTML                     1 repo              ██████░░░░░�
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
 ## 🔗 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ngocanh--ph-2d1b3d?style=for-the-badge&logo=github&logoColor=E991C8)](https://github.com/ngocanh-ph)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2d1b3d?style=for-the-badge&logo=linkedin&logoColor=C9A0F5)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-2d1b3d?style=for-the-badge&logo=gmail&logoColor=E991C8)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-2d1b3d?style=for-the-badge&logo=linkedin&logoColor=E991C8)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![StratasScratch](https://img.shields.io/badge/STRATASCRATCH-PROFILE-2d1b3d?style=for-the-badge&logoColor=C9A0F5)](https://platform.stratascratch.com/user/ngocanh-ph)
+[![Email](https://img.shields.io/badge/EMAIL-SAY%20HI!-2d1b3d?style=for-the-badge&logo=gmail&logoColor=E991C8)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
+
+---
 
 <div align="center">
 
 *✦ made with 🌸 and endless curiosity ✦*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ngocanh-ph&color=C9A0F5&style=flat-square&label=visitors)
 
 </div>

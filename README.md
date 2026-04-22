@@ -99,10 +99,78 @@ status     : Learning, building, and growing every day 🌱
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
 ```text
-💬 Programming Languages:
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                14 commits          ███████████████░░░░░░░░░░   60.87 % 
+🌃 Evening                9 commits           ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                8 commits           █████████░░░░░░░░░░░░░░░░   34.78 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   12 commits          █████████████░░░░░░░░░░░░   52.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+PHP                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ngocanh-ph/ngocanh-ph/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/04/2026 07:23:21 UTC
 <!--END_SECTION:waka-->
 
 </div>

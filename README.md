@@ -6,14 +6,13 @@
 <!-- Typing animation tên — nổi bật, đơn giản -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=hi+there%2C+i'm+ngocanh+🌸;AI+Engineer+%2F+Business+Analyst;Vietnam+🇻🇳+%7C+always+learning+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=Hi+Word!%2C+I'm+Anthalia+🌸;)](https://git.io/typing-svg)
 
 </div>
 
 <!-- Status Badges -->
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=flat-square&label=⏱️+wakatime)](https://wakatime.com/@ngocanh-ph)
 ![Working On](https://img.shields.io/badge/🔨_Working_On-Machine_Learning-ff6b9d?style=flat-square)
 ![Learning](https://img.shields.io/badge/🧠_Learning-NLP-a78bfa?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=👀+visitors&color=38bdf8)

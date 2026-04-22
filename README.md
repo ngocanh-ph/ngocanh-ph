@@ -14,8 +14,8 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=flat-square&label=⏱️+wakatime)](https://wakatime.com/@ngocanh-ph)
-![Working On](https://img.shields.io/badge/🔨_Working_On-AI_Projects-ff6b9d?style=flat-square)
-![Learning](https://img.shields.io/badge/🧠_Learning-NLP_&_LLMs-a78bfa?style=flat-square)
+![Working On](https://img.shields.io/badge/🔨_Working_On-Machine_Learning-ff6b9d?style=flat-square)
+![Learning](https://img.shields.io/badge/🧠_Learning-NLP-a78bfa?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=👀+visitors&color=38bdf8)
 
 </div>

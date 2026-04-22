@@ -1,8 +1,14 @@
+<!-- TOP: Matrix animation banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px" style="object-fit:cover; border-radius:12px"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 </div>
 
-<!-- Capsule Render dưới GIF -->
+<!-- Lofi chill girl GIF -->
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlZzlkemt3a2w0NTdnOXpleHJzMjhocXd4cmdubDloeWpyc3UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="480px"/>
+</div>
+
+<!-- Capsule Render name -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=hi%2C+i%27m+ngocanh+🌸&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI+Engineer+%2F+Business+Analyst+%7C+Vietnam+🇻🇳&descAlignY=75&descSize=16" width="100%"/>
 </div>
@@ -31,7 +37,7 @@ status     : Learning, building, and growing every day 🌱
 ```
 
 - 🤖 Passionate about **AI Engineering** and **intelligent systems**
-- 📊 Love bridging the gap between **data insights** and **business decisions**  
+- 📊 Love bridging the gap between **data insights** and **business decisions**
 - 🧠 Currently exploring **NLP** and **LLM applications**
 - 💬 Ask me about **ML pipelines, business analysis, or backend APIs**
 - ⚡ Fun fact: I believe the best solutions are simple ones 😄

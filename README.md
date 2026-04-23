@@ -89,36 +89,6 @@ Hobbies    : Sleeping, Piano, and wandering alone
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## ⏱️ This Week I Spent My Time On
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-```
-
-```text
-Jupyter Notebook         1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C#                       1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ngocanh-ph/ngocanh-ph/main/assets/bar_graph.png)
-
-
- Last Updated on 23/04/2026 02:07:54 UTC
-<!--END_SECTION:waka-->
-
-</div>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 🌐 Activity Graph
 
 <div align="center">

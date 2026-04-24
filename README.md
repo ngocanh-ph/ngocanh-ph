@@ -75,8 +75,8 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 <div align="center">
 
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
 
 </div>
 

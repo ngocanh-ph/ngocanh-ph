@@ -3,20 +3,18 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlZzlkemt3a2w0NTdnOXpleHJzMjhocXd4cmdubDloeWpyc3UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="100%"/>
 </div>
 
-<!-- Typing animation -->
+<!-- Typing animation tên-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&height=70&lines=hi+there%2C+i'm+ngocanh+🌸;AI+Engineer+%2F+Business+Analyst;Vietnam+🇻🇳+%7C+always+learning+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;I+never+lose.+I+either+win+or+learn)](https://git.io/typing-svg)
 
 </div>
 
 <!-- Status Badges -->
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=flat-square&label=⏱️+wakatime)](https://wakatime.com/@ngocanh-ph)
-![Working On](https://img.shields.io/badge/🔨_Working_On-AI_Projects-ff6b9d?style=flat-square)
-![Learning](https://img.shields.io/badge/🧠_Learning-NLP_&_LLMs-a78bfa?style=flat-square)
-![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=👀+visitors&color=38bdf8)
+![Working On](https://img.shields.io/badge/🔨_Working_On-Machine_Learning_%26_NLP_Projects-ff6b9d?style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=visitors&color=38bdf8)
 
 </div>
 
@@ -26,18 +24,11 @@
 ## 🧠 About Me
 
 ```yaml
-name       : ngocanh-ph
-role       : AI Engineer / Business Analyst
-location   : Vietnam 🇻🇳
-focus      : Machine Learning · NLP · Data-Driven Solutions
-status     : Learning, building, and growing every day 🌱
+Name       : Anthalia Pham 
+Location   : Vietnam 
+Languages  : English (B2)·Japanese (N5)
+Hobbies    : Sleeping, Piano, and wandering alone 
 ```
-
-- 🤖 Passionate about **AI Engineering** and **intelligent systems**
-- 📊 Love bridging the gap between **data insights** and **business decisions**
-- 🧠 Currently exploring **NLP** and **LLM applications**
-- 💬 Ask me about **ML pipelines, business analysis, or backend APIs**
-- ⚡ Fun fact: I believe the best solutions are simple ones 😄
 
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -82,30 +73,14 @@ status     : Learning, building, and growing every day 🌱
 
 <div align="center">
 
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ngocanh-ph&theme=tokyonight&hide_border=true&ring=ff6b9d&fire=a78bfa&currStreakLabel=ff6b9d"/>
-
-</div>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## ⏱️ This Week I Spent My Time On
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-💬 Programming Languages:
-No Activity Tracked This Week
-```
-<!--END_SECTION:waka-->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ngocanh-ph&theme=tokyonight&hide_border=true&ring=ff6b9d&fire=a78bfa&currStreakLabel=ff6b9d" width="100%"/>
 
 </div>
 
@@ -127,19 +102,9 @@ No Activity Tracked This Week
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthalia-pham/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pna.ngocanhpham@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngocanh-ph)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phngoc_anh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthalia.ph)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phngoc_anh)
 
-</div>
-
-<!-- Bottom wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-*✦ made with 🌸 and endless curiosity ✦*
-
-</div>

@@ -71,10 +71,6 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 ## 📊 Stats
 
-<div align="center">
-<img height="180em" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
-
-</div>
 
 <div align="center">
 

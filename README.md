@@ -14,7 +14,6 @@
 <div align="center">
 
 ![Working On](https://img.shields.io/badge/🔨_Working_On-Machine_Learning_%26_NLP_Projects-ff6b9d?style=flat-square)
-![Learning](https://img.shields.io/badge/🧠_Learning-AI_Engineering-a78bfa?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=visitors&color=38bdf8)
 
 </div>
@@ -26,7 +25,6 @@
 
 ```yaml
 Name       : Anthalia Pham 
-Role       : AI Engineer / Business Analyst
 Location   : Vietnam 
 Languages  : English (B2)·Japanese (N5)
 Hobbies    : Sleeping, Piano, and wandering alone 
@@ -73,32 +71,10 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 ## 📊 Stats
 
-<div align="center">
-
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngocanh-ph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh-ph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
-
-</div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ngocanh-ph&theme=tokyonight&hide_border=true&ring=ff6b9d&fire=a78bfa&currStreakLabel=ff6b9d" width="100%"/>
-
-</div>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## ⏱️ This Week I Spent My Time On
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-💬 Programming Languages:
-No Activity Tracked This Week
-```
-<!--END_SECTION:waka-->
 
 </div>
 
@@ -125,3 +101,5 @@ No Activity Tracked This Week
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngocanh-ph)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthalia.ph)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phngoc_anh)
+
+</div>

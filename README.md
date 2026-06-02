@@ -12,7 +12,7 @@
 
 <!-- Status Badges -->
 <div align="center">
-[![wakatime](https://wakatime.com/badge/user/anthalia2511.svg)](https://wakatime.com/@anthalia2511)
+![wakatime](https://wakatime.com/badge/user/anthalia2511.svg)](https://wakatime.com/@anthalia2511)
 ![Focus on](https://img.shields.io/badge/🔨_Working_On-Machine_Learning_%26_NLP_Projects-ff6b9d?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=visitors&color=38bdf8)
 

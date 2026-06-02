@@ -79,6 +79,9 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 </div>
 
+### Things I'm working on this week
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -106,6 +109,8 @@ Hobbies    : Sleeping, Piano, and wandering alone
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngocanh-ph&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
 </div>
 
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 ## 🔗 Let's Connect
 
 <div align="center">

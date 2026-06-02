@@ -105,7 +105,7 @@ Text         3 mins                ░░░░░░░░░░░░░░░
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## Contributions
+## 🔥 Contributions
 
 <div align="center" width="100%">
   <picture>
@@ -120,6 +120,7 @@ Text         3 mins                ░░░░░░░░░░░░░░░
 
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ## 🔗 Let's Connect
 
 <div align="center">

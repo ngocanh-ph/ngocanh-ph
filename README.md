@@ -5,7 +5,6 @@
 
 <!-- Typing animation tên-->
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;I+never+lose.+I+either+win+or+learn)](https://git.io/typing-svg)
 
 </div>

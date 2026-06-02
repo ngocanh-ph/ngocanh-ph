@@ -81,6 +81,15 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 ### Things I'm working on this week
 <!--START_SECTION:waka-->
+
+```txt
+Python       9 hrs 4 mins          █████████████▒░░░░░░░░░░░   53.19 %
+Java         7 hrs 20 mins         ██████████▓░░░░░░░░░░░░░░   43.09 %
+Markdown     17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Git Config   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Text         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+```
+
 <!--END_SECTION:waka-->
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>

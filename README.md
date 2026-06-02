@@ -93,6 +93,19 @@ Hobbies    : Sleeping, Piano, and wandering alone
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+## Contributions
+
+<div align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngocanh-ph/ngocanh-ph/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngocanh-ph/ngocanh-ph/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ngocanh-ph/ngocanh-ph/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  </picture>
+</div>
+<div align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngocanh-ph&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+</div>
+
 ## 🔗 Let's Connect
 
 <div align="center">

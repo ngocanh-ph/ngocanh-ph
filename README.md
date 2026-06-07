@@ -83,11 +83,11 @@ Hobbies    : Sleeping, Piano, and wandering alone
 <!--START_SECTION:waka-->
 
 ```txt
-Java         8 hrs 13 mins         █████████████▒░░░░░░░░░░░   53.67 %
-Python       6 hrs 19 mins         ██████████▒░░░░░░░░░░░░░░   41.28 %
-Markdown     36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Text         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java       8 hrs 50 mins         █████████████████▒░░░░░░░   68.72 %
+Python     3 hrs 16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+YAML       21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Markdown   20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+CSV        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

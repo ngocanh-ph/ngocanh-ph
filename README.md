@@ -83,8 +83,7 @@ Hobbies    : Sleeping, Piano, and wandering alone
 <!--START_SECTION:waka-->
 
 ```txt
-Java   7 hrs 8 mins          ████████████████████████▓   99.30 %
-CSV    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Java   8 hrs 22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

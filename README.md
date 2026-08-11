@@ -83,9 +83,8 @@ Hobbies    : Sleeping, Piano, and wandering alone
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 27 mins         █████████████████████████   99.62 %
-Text         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   3 hrs 25 mins         ████████████████████████▓   99.33 %
+Text     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->

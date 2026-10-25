@@ -118,8 +118,3 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 
 </div>
 
-<br />
-
-<div align="center">
-  <img src="assets/footer.svg" alt="End of sheet" width="100%"/>
-</div>

@@ -1,14 +1,7 @@
-<!-- TOP: Full width chill girl GIF -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlZzlkemt3a2w0NTdnOXpleHJzMjhocXd4cmdubDloeWpyc3UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="100%"/>
+  <img src="assets/header.svg" alt="Anthalia Pham · Business Analysis " width="100%"/>
 </div>
 
-<!-- Typing animation tên-->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;Shut+up+and+practice)](https://git.io/typing-svg)
-
-</div>
 <!-- Status Badges -->
 <div align="center">
 
@@ -18,27 +11,24 @@
 
 </div>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider-about.svg" alt="" width="100%"/>
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 Name       : Anthalia Pham 
 Location   : Vietnam 
-Aspiring   : Business Analyst (Fintech & Banking)
-Interests  : AI-enabled products, data, process design
-Languages  : English (B2)·Japanese (N5)
+Aspiring   : Business Analyst 
+Languages  : English (IELTS 6.5 & TOEIC 880)
 Hobbies    : Sleeping, Piano, and wandering alone 
 ```
 
 I like turning vague business needs into requirements that developers can build and testers can verify.
 My software engineering and machine learning background helps me talk to dev and data teams, and write realistic requirements for AI-enabled features.
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider-stack.svg" alt="" width="100%"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,10 +54,9 @@ My software engineering and machine learning background helps me talk to dev and
 
 </div>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider-stats.svg" alt="" width="100%"/>
 
-## 📊 Stats
+## Stats
 
 
 <div align="center">
@@ -88,10 +77,10 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🌐 Activity Graph
+<img src="assets/divider-activity.svg" alt="" width="100%"/>
+
+## Activity Graph
 
 <div align="center">
 
@@ -99,10 +88,9 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 
 </div>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider-contrib.svg" alt="" width="100%"/>
 
-## 🔥 Contributions
+## Contributions
 
 <div align="center" width="100%">
   <picture>
@@ -112,13 +100,12 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
   </picture>
 </div>
 <div align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngocanh-ph&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngocanh-ph&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
 </div>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider-connect.svg" alt="" width="100%"/>
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -128,4 +115,10 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthalia.ph)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phngoc_anh)
 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/footer.svg" alt="End of sheet" width="100%"/>
 </div>

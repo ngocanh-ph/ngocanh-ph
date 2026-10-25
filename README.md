@@ -6,7 +6,7 @@
 <!-- Typing animation tên-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;Shut+up+and+practice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;Turning+business+problems+into+clear+requirements;Shut+up+and+practice)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/11de812f-6901-468d-abcc-982298bbe8df.svg)](https://wakatime.com/@anthalia2511)
-![Focus on](https://img.shields.io/badge/🔨_Learning-Machine_Learning_%26_NLP_Projects-ff6b9d?style=flat-square)
+![Focus on](https://img.shields.io/badge/🔨_Focus-Business_Analysis_%26_Fintech_%26_AI-ff6b9d?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=visitors&color=38bdf8)
 
 </div>
@@ -27,9 +27,25 @@
 ```yaml
 Name       : Anthalia Pham 
 Location   : Vietnam 
+Aspiring   : Business Analyst (Fintech & Banking)
+Interests  : AI-enabled products, data, process design
 Languages  : English (B2)·Japanese (N5)
 Hobbies    : Sleeping, Piano, and wandering alone 
 ```
+
+I like turning vague business needs into requirements that developers can build and testers can verify.
+My software engineering and machine learning background helps me talk to dev and data teams, and write realistic requirements for AI-enabled features.
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📌 Case Studies
+
+| Project | Domain | What it shows |
+|---|---|---|
+| [Mobile Banking BA (team project)](PORTFOLIO_LINK_1) | Banking | Scope prioritization, BRD/SRS, BPMN with exception paths, UML |
+| [Student Study Materials, live pilot](PORTFOLIO_LINK_2) | Education | User survey, DFD/ERD, SQL analysis of real pilot data |
+| [Web POS with AI insights](PORTFOLIO_LINK_3) | Retail & Payments | User interviews, Figma with BA annotations, AI feature requirements |
 
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -38,29 +54,35 @@ Hobbies    : Sleeping, Piano, and wandering alone
 
 <div align="center">
 
-**AI / Machine Learning / NLP**
+**Business Analysis & Product**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data & Programming**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**AI / Machine Learning (background)**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Programming Languages**
+**Engineering background**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -125,6 +147,7 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthalia-pham/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pna.ngocanhpham@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthalia.ph)

@@ -19,12 +19,9 @@
 Name       : Anthalia Pham 
 Location   : Vietnam 
 Aspiring   : Business Analyst 
-Languages  : English (IELTS 6.5 & TOEIC 880)
+Languages  : English 
 Hobbies    : Sleeping, Piano, and wandering alone 
 ```
-
-I like turning vague business needs into requirements that developers can build and testers can verify.
-My software engineering and machine learning background helps me talk to dev and data teams, and write realistic requirements for AI-enabled features.
 
 <div align="center">
   <img src="assets/hero-flow.svg" alt="How I turn a vague need into a traced spec. A BPMN collaboration: the stakeholder sends a business need; the business analyst elicits, analyzes, specifies and validates; a gateway checks sign-off and loops back to analyze if not approved; then dev and QA build and test, with a defect loop. A traceability chain links business need BN-01, business rule BR-02, use case UC-03, user story US-04 and test case TC-05." width="100%"/>

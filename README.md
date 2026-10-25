@@ -6,9 +6,9 @@
 <!-- Typing animation tên-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;Turning+business+problems+into+clear+requirements;Shut+up+and+practice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+Anthalia+💧;Shut+up+and+practice)](https://git.io/typing-svg)
 
-</div>
+</div>push
 
 <!-- Status Badges -->
 <div align="center">
@@ -39,17 +39,6 @@ My software engineering and machine learning background helps me talk to dev and
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📌 Case Studies
-
-| Project | Domain | What it shows |
-|---|---|---|
-| [Mobile Banking BA (team project)](PORTFOLIO_LINK_1) | Banking | Scope prioritization, BRD/SRS, BPMN with exception paths, UML |
-| [Student Study Materials, live pilot](PORTFOLIO_LINK_2) | Education | User survey, DFD/ERD, SQL analysis of real pilot data |
-| [Web POS with AI insights](PORTFOLIO_LINK_3) | Retail & Payments | User interviews, Figma with BA annotations, AI feature requirements |
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -70,22 +59,6 @@ My software engineering and machine learning background helps me talk to dev and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**AI / Machine Learning (background)**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Engineering background**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 

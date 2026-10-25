@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Anthalia Pham · Business Analysis " width="100%"/>
+  <img src="assets/header.svg" alt="Anthalia Pham · Business Analysis · Data Analytics" width="100%"/>
 </div>
 
 <!-- Status Badges -->

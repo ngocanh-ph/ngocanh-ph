@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Anthalia Pham · Business Analysis · Data Analytics" width="100%"/>
+  <img src="assets/header.svg" alt="Anthalia Pham · Business Analyst" width="100%"/>
 </div>
 
 <!-- Status Badges -->
@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="assets/divider-about.svg" alt="" width="100%"/>
+<img src="assets/flow-01.svg" alt="Task 01 · About" width="100%"/>
 
 ## About Me
 
@@ -26,7 +26,11 @@ Hobbies    : Sleeping, Piano, and wandering alone
 I like turning vague business needs into requirements that developers can build and testers can verify.
 My software engineering and machine learning background helps me talk to dev and data teams, and write realistic requirements for AI-enabled features.
 
-<img src="assets/divider-stack.svg" alt="" width="100%"/>
+<div align="center">
+  <img src="assets/hero-flow.svg" alt="How I turn a vague need into a traced spec. A BPMN collaboration: the stakeholder sends a business need; the business analyst elicits, analyzes, specifies and validates; a gateway checks sign-off and loops back to analyze if not approved; then dev and QA build and test, with a defect loop. A traceability chain links business need BN-01, business rule BR-02, use case UC-03, user story US-04 and test case TC-05." width="100%"/>
+</div>
+
+<img src="assets/flow-02.svg" alt="Task 02 · Tech Stack" width="100%"/>
 
 ## Tech Stack
 
@@ -54,7 +58,7 @@ My software engineering and machine learning background helps me talk to dev and
 
 </div>
 
-<img src="assets/divider-stats.svg" alt="" width="100%"/>
+<img src="assets/flow-03.svg" alt="Task 03 · Stats" width="100%"/>
 
 ## Stats
 
@@ -78,7 +82,7 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img src="assets/divider-activity.svg" alt="" width="100%"/>
+<img src="assets/flow-04.svg" alt="Task 04 · Activity" width="100%"/>
 
 ## Activity Graph
 
@@ -88,7 +92,7 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
 
 </div>
 
-<img src="assets/divider-contrib.svg" alt="" width="100%"/>
+<img src="assets/flow-05.svg" alt="Task 05 · Contributions" width="100%"/>
 
 ## Contributions
 
@@ -103,7 +107,7 @@ JavaScript   20 mins               █░░░░░░░░░░░░░░
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngocanh-ph&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
 </div>
 
-<img src="assets/divider-connect.svg" alt="" width="100%"/>
+<img src="assets/flow-06.svg" alt="Task 06 · Connect" width="100%"/>
 
 ## Let's Connect
 

@@ -6,7 +6,7 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/11de812f-6901-468d-abcc-982298bbe8df.svg)](https://wakatime.com/@anthalia2511)
-![Focus on](https://img.shields.io/badge/🔨_Focus-Business_Analysis_%26_Fintech_%26_AI-ff6b9d?style=flat-square)
+![Focus on](https://img.shields.io/badge/🔨_Focus-Business_Analysis-ff6b9d?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=ngocanh-ph&style=flat-square&label=visitors&color=38bdf8)
 
 </div>
